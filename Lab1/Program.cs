@@ -25,6 +25,14 @@ class Program
                 Console.WriteLine("Gatunek nie może być pusty. Podaj gatunek:");
             }
 
+           
+            var gatunekNorm = gatunek.ToLowerInvariant();
+            if (gatunekNorm == "królik")
+            {
+                Console.WriteLine("Królik nie jest obsługiwanym gatunkiem. Przerywam funkcję");
+                return;
+            }
+
             Console.WriteLine($"Podaj liczbę nóg zwierzęcia #{i}:");
             int liczbaNog;
             while (!int.TryParse(Console.ReadLine(), out liczbaNog) || liczbaNog < 0)
@@ -36,7 +44,7 @@ class Program
             Console.WriteLine();
         }
 
-        var klon = new Zwierze(zwierzeta[0]); 
+        var klon = new Zwierze(zwierzeta[0]);
         Console.WriteLine("Podaj nazwę dla sklonowanego zwierzęcia:");
         string nowaNazwa;
         while (string.IsNullOrWhiteSpace(nowaNazwa = Console.ReadLine()?.Trim()))
@@ -120,7 +128,7 @@ class Zwierze
 
     public void ZmienNazwe(string nowaNazwa)
     {
-        if (string.IsNullOrWhiteSpace(nowaNazwa)) throw new ArgumentException("nowaNazwa");
+        if (string.IsNullOrWhiteSpace(nowaNazwa)) throw new ArgumentException(nameof(nowaNazwa));
         this.nazwa = nowaNazwa;
     }
 
