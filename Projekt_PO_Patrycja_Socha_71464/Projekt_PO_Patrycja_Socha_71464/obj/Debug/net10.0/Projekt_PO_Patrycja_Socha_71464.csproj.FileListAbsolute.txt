@@ -1,0 +1,14 @@
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\bin\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.exe
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\bin\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.deps.json
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\bin\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.runtimeconfig.json
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\bin\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.dll
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\bin\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.pdb
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.AssemblyInfoInputs.cache
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.AssemblyInfo.cs
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.csproj.CoreCompileInputs.cache
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.dll
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\refint\Projekt_PO_Patrycja_Socha_71464.dll
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.pdb
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\Projekt_PO_Patrycja_Socha_71464.genruntimeconfig.cache
+C:\Users\patka\source\repos\Projekt_PO_Patrycja_Socha_71464\Projekt_PO_Patrycja_Socha_71464\obj\Debug\net10.0\ref\Projekt_PO_Patrycja_Socha_71464.dll
