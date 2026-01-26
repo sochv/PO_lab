@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Lab6/">
+    <File Path="Lab6/Lab6.csproj" />
+    <File Path="Lab6/Program.cs" />
+  </Folder>
   <Project Path="Lab1/Lab1.csproj" />
 </Solution>
